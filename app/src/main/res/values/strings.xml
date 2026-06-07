@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SiteBlocker</string>
+    <string name="accessibility_service_description">
+        SiteBlocker monitors your browser address bar to block websites you have added to your block list.
+        It does not read any personal content.
+    </string>
+</resources>
